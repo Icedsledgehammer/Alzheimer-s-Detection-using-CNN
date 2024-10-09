@@ -1,1 +1,1 @@
-# Alzheimer-s-Detection-using-CNN
+This repo consists of training data and test data as well as the sample model where I used CNN for image analysis. Additionally, there is a streamlit file (Named runner.py) which I used to run my model on a localhost.
